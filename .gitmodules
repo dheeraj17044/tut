@@ -1,0 +1,3 @@
+[submodule "Hibernate_tut"]
+	path = Hibernate_tut
+	url = https://github.com/dheeraj17044/Hibernate_tut.git
